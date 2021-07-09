@@ -71,7 +71,7 @@ os.system("apt update && apt upgrade")
 print('electro')
 os.system("pkg install php -y")
 
-print('WAIT 2 MINUTE'S')
+print('WAIT 2 MINUTES')
 
 print("\033[1;32;40m   \n")
 
