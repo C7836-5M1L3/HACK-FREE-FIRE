@@ -2,6 +2,8 @@
 Advanced free fire tool. Hack any Free fire accounts easly..
 
 
+
+
 $ apt update && apt upgrade
 
 $ pkg install python
