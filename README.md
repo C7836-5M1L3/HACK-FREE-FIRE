@@ -2,8 +2,6 @@
 Advanced free fire tool. Hack any Free fire accounts easly..
 
 
-Non-Image content-type returned
-
 
 $ apt update && apt upgrade
 
