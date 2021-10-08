@@ -9,6 +9,9 @@
 <div align="center">
   <img border-radius: 15px src="https://telegra.ph/file/af6d0967d851f7b8fa77e.jpg" width="200" height="200"/>
 
+## Instalation!
+
+```js
 $ apt update && apt upgrade
 
 $ pkg install python
@@ -22,5 +25,5 @@ $ git clone https://github.com/C7836-5M1L3/HACK-FREE-FIRE
 $ cd HACK-FREE-FIRE
 
 $ python3 FFhack.py
-
+```
 
