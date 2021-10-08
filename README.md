@@ -6,6 +6,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2300A746&size=18&lines=Advanced+free+fire+hacking+tool!..;This+tool+only+for+educational+purpose...;Coded+by+cyber+smile+%3A)](https://git.io/typing-svg)
 
 
+<div align="center">
+  <img border-radius: 15px src="https://telegra.ph/file/af6d0967d851f7b8fa77e.jpg" width="200" height="200"/>
+
 $ apt update && apt upgrade
 
 $ pkg install python
