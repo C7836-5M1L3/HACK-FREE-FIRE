@@ -16,6 +16,7 @@
 <a href="#"><img title="HACK FREE FIRE"
  src="https://img.shields.io/badge/-HACK FREE%20FIRE-violet?&style=for-the-badge"></a>
 
+---
 
 ## Instalation!
 
